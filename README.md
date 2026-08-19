@@ -63,14 +63,15 @@
 ### 📊 Thống kê hoạt động
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tuilahaune206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tuilahaune206 GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tuilahaune206&layout=compact&theme=tokyonight&hide_border=true" alt="Tuilahaune206 Top Langs" />
+  <!-- Stats Card (Dùng server dự phòng ổn định) -->
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Tuilahaune206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tuilahaune206 GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Tuilahaune206&layout=compact&theme=tokyonight&hide_border=true" alt="Tuilahaune206 Top Langs" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
+  <!-- Streak Stats Card (Đang hoạt động tốt) -->
   <img src="https://streak-stats.demolab.com/?user=Tuilahaune206&theme=tokyonight&hide_border=true" alt="Tuilahaune206 Streak Stats" />
 </div>
-
 ---
 
 ### 🐍 GitHub Contribution Snake
